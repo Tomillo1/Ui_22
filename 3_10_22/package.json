@@ -1,0 +1,15 @@
+{
+  "name": "3_10_22",
+  "version": "1.0.0",
+  "description": "Clase revisión de objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "object"
+  ],
+  "author": "",
+  "license": "ISC"
+}
